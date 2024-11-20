@@ -5,15 +5,15 @@ Welcome to my repository of data analysis projects! This repository showcases a 
 ## Projects
 Here is a list of projects included in this repository:
 
-1. **Automobile Price Analysis**
+1. [**Automobile Price Analysis**](automobile_data_analysis/automobile_data_analysis.ipynb)
    - Analyzed features impacting automobile prices using statistical methods and visualizations.
    - Tools: Pandas, NumPy, Matplotlib, Seaborn, SciPy
 
-2. **Sales Data Analysis**
-   - This project provides a comprehensive analysis of sales data, covering data cleaning, transformation, and insightful visualizations. The goal is to uncover key sales metrics and trends over       time, by state, city, and hour.
+2. [**Sales Data Analysis**](sales/sales_data_analysis.ipynb)
+   - This project comprehensively analyzes sales data, covering data cleaning, transformation, and insightful visualizations. The goal is to uncover key sales metrics and trends by state, city, and hour over time.
    - Tools: Pandas, NumPy, Matplotlib, Seaborn
   
-3. **Box Office Data Analysis**
+3. [**Box Office Data Analysis**](box_office_data_analysis/box_office_data_analysis.ipynb)
    - This project provides an in-depth analysis of movie data, focusing on various factors affecting box office revenue. The analysis includes data cleaning, transformation, and visualizations The goal is to identify insights that can guide decision-making in the film industry.
    - Tools: Pandas, NumPy, Seaborn, Matplotlib, WordCloud
 
